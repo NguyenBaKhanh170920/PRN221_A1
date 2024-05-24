@@ -1,0 +1,84 @@
+﻿<Window x:Class="SE1726_Group6_A1.OrderManager"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SE1726_Group6_A1"
+        mc:Ignorable="d"
+        Title="OrderManager" Height="636" Width="1242">
+    <Grid>
+        <DockPanel VerticalAlignment="Top" Margin="10">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="200"/>
+                </Grid.RowDefinitions>
+                <StackPanel Background="LightBlue" Orientation="Vertical" HorizontalAlignment="Left" Width="539" Margin="0,0,0,132">
+                    <Label Content="Order Manager" Foreground="Red" FontSize="20" FontWeight="Bold"/>
+
+                    <Label Content="Order ID:"/>
+                    <TextBox x:Name="orderID" IsReadOnly="True" Height="25" Width="600" HorizontalAlignment="Left" Text="{Binding Path=OrderId, Mode=OneWay}" DataContext="{Binding ElementName=lvOrder, Path=SelectedItem}"/>
+
+                    <Label Content="Order Date:"/>
+                    <DatePicker Name="dobDate" Height="25" Width="601" HorizontalAlignment="Left" Text="{Binding Path=OrderDate, Mode=OneWay}" DataContext="{Binding ElementName=lvOrder, Path=SelectedItem}"/>
+
+                    <Label Content="Staff ID:"/>
+                    <TextBox x:Name="staffId" Height="25" Width="600" HorizontalAlignment="Left" Text="{Binding Path=StaffId, Mode=OneWay}" DataContext="{Binding ElementName=lvOrder, Path=SelectedItem}"/>
+                    <StackPanel Orientation="Horizontal" Width="550" Background="White">
+                        <Button Margin="5" Width="80" Content="Refresh" Click="btnRefresh_Click"/>
+                        <Button Margin="5" Width="80" Content="Insert" Click="btnInsert_Click"/>
+                        <Button Margin="5" Width="80" Content="Update" Click="btnUpdate_Click"/>
+                        <Button Margin="5" Width="80" Content="Delete" Click="btnDelete_Click"/>
+                        <Button Margin="5" Width="80" Content="Search" Click="btnSearch_Click"/>
+                        <Button Margin="5" Width="80" Content="Back" Click="btnBack_Click"/>
+                    </StackPanel>
+                </StackPanel>
+
+                <ListView Height="180" Grid.Row="1" Name="lvOrder" HorizontalAlignment="Left" SelectionChanged="lvOrder_SelectionChanged" Margin="10,10,0,10" Width="500">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="Order ID" Width="100" DisplayMemberBinding="{Binding Path=OrderId}"/>
+                            <GridViewColumn Header="Order Date" Width="200" DisplayMemberBinding="{Binding Path=OrderDate}"/>
+                            <GridViewColumn Header="Staff ID" Width="200" DisplayMemberBinding="{Binding Path=StaffId}"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+
+                <StackPanel Background="LightGray" Orientation="Vertical" HorizontalAlignment="Right" Width="600" Grid.Row="0" Margin="10">
+                    <Label Content="Order Detail" Foreground="Green" FontSize="20" FontWeight="Bold"/>
+
+                    <!-- Order Detail Fields -->
+                    <Label Content="Detail ID:"/>
+                    <TextBox x:Name="detailID" IsReadOnly="True" Height="25" Width="600" HorizontalAlignment="Left" Text="{Binding Path=DetailId, Mode=OneWay}" DataContext="{Binding ElementName=lvOrderDetail, Path=SelectedItem}"/>
+                    <Label Content="Order ID:"/>
+                    <TextBox x:Name="orderDetailID" IsReadOnly="True" Height="25" Width="600" HorizontalAlignment="Left" Text="{Binding Path=OrderId, Mode=OneWay}" DataContext="{Binding ElementName=lvOrderDetail, Path=SelectedItem}"/>
+                    <Label Content="Product ID:"/>
+                    <TextBox x:Name="productID" Height="25" Width="600" HorizontalAlignment="Left" Text="{Binding Path=ProductId, Mode=OneWay}" DataContext="{Binding ElementName=lvOrderDetail, Path=SelectedItem}"/>
+                    <Label Content="Unit Price:"/>
+                    <TextBox x:Name="unitPrice" Height="25" Width="600" HorizontalAlignment="Left" Text="{Binding Path=UnitPrice, Mode=OneWay}" DataContext="{Binding ElementName=lvOrderDetail, Path=SelectedItem}"/>
+
+                    <Label Content="Quantity:"/>
+                    <TextBox x:Name="quantity" Height="25" Width="600" HorizontalAlignment="Left" Text="{Binding Path=Quantity, Mode=OneWay}" DataContext="{Binding ElementName=lvOrderDetail, Path=SelectedItem}"/>
+
+                    <StackPanel Orientation="Horizontal" Width="600" HorizontalAlignment="Left" Background="White" Height="45">
+                        <Button Margin="10" Width="80" Content="Refresh" Click="btnRefreshDetail_Click"/>
+                        <Button Margin="10" Width="80" Content="Insert" Click="btnInsertDetail_Click"/>
+                        <Button Margin="10" Width="80" Content="Update" Click="btnUpdateDetail_Click"/>
+                        <Button Margin="10" Width="80" Content="Delete" Click="btnDeleteDetail_Click"/>
+                    </StackPanel>
+                </StackPanel>
+                <ListView Height="180" Grid.Row="1" Name="lvOrderDetail" HorizontalAlignment="Left" SelectionChanged="lvOrderDetail_SelectionChanged" Margin="675,31,0,-11" Width="403">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="Detail ID" Width="75" DisplayMemberBinding="{Binding Path=OrderDetailId}"/>
+                            <GridViewColumn Header="Order ID" Width="75" DisplayMemberBinding="{Binding Path=OrderId}"/>
+                            <GridViewColumn Header="Product ID" Width="100" DisplayMemberBinding="{Binding Path=ProductId}"/>
+                            <GridViewColumn Header="Quantity" Width="75" DisplayMemberBinding="{Binding Path=Quantity}"/>
+                            <GridViewColumn Header="Unit Price" Width="75" DisplayMemberBinding="{Binding Path=UnitPrice}"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </Grid>
+        </DockPanel>
+    </Grid>
+</Window>

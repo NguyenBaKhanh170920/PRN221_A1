@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\PRN221\\SE1726_Group6_A1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86FB7D90-DDD6-4631-8DF3-C45EF054622C}|SE1726_Group6_A1\\SE1726_Group6_A1.csproj|c:\\users\\administrator\\documents\\prn221\\se1726_group6_a1\\se1726_group6_a1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86FB7D90-DDD6-4631-8DF3-C45EF054622C}|SE1726_Group6_A1\\SE1726_Group6_A1.csproj|solutionrelative:se1726_group6_a1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FB7D90-DDD6-4631-8DF3-C45EF054622C}|SE1726_Group6_A1\\SE1726_Group6_A1.csproj|c:\\users\\administrator\\documents\\prn221\\se1726_group6_a1\\se1726_group6_a1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FB7D90-DDD6-4631-8DF3-C45EF054622C}|SE1726_Group6_A1\\SE1726_Group6_A1.csproj|solutionrelative:se1726_group6_a1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FB7D90-DDD6-4631-8DF3-C45EF054622C}|SE1726_Group6_A1\\SE1726_Group6_A1.csproj|c:\\users\\administrator\\documents\\prn221\\se1726_group6_a1\\se1726_group6_a1\\ordermanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FB7D90-DDD6-4631-8DF3-C45EF054622C}|SE1726_Group6_A1\\SE1726_Group6_A1.csproj|solutionrelative:se1726_group6_a1\\ordermanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FB7D90-DDD6-4631-8DF3-C45EF054622C}|SE1726_Group6_A1\\SE1726_Group6_A1.csproj|c:\\users\\administrator\\documents\\prn221\\se1726_group6_a1\\se1726_group6_a1\\ordermanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86FB7D90-DDD6-4631-8DF3-C45EF054622C}|SE1726_Group6_A1\\SE1726_Group6_A1.csproj|solutionrelative:se1726_group6_a1\\ordermanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FB7D90-DDD6-4631-8DF3-C45EF054622C}|SE1726_Group6_A1\\SE1726_Group6_A1.csproj|c:\\users\\administrator\\documents\\prn221\\se1726_group6_a1\\se1726_group6_a1\\staffwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FB7D90-DDD6-4631-8DF3-C45EF054622C}|SE1726_Group6_A1\\SE1726_Group6_A1.csproj|solutionrelative:se1726_group6_a1\\staffwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FB7D90-DDD6-4631-8DF3-C45EF054622C}|SE1726_Group6_A1\\SE1726_Group6_A1.csproj|c:\\users\\administrator\\documents\\prn221\\se1726_group6_a1\\se1726_group6_a1\\staffwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86FB7D90-DDD6-4631-8DF3-C45EF054622C}|SE1726_Group6_A1\\SE1726_Group6_A1.csproj|solutionrelative:se1726_group6_a1\\staffwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FB7D90-DDD6-4631-8DF3-C45EF054622C}|SE1726_Group6_A1\\SE1726_Group6_A1.csproj|c:\\users\\administrator\\documents\\prn221\\se1726_group6_a1\\se1726_group6_a1\\productwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FB7D90-DDD6-4631-8DF3-C45EF054622C}|SE1726_Group6_A1\\SE1726_Group6_A1.csproj|solutionrelative:se1726_group6_a1\\productwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FB7D90-DDD6-4631-8DF3-C45EF054622C}|SE1726_Group6_A1\\SE1726_Group6_A1.csproj|c:\\users\\administrator\\documents\\prn221\\se1726_group6_a1\\se1726_group6_a1\\adminstaff.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FB7D90-DDD6-4631-8DF3-C45EF054622C}|SE1726_Group6_A1\\SE1726_Group6_A1.csproj|solutionrelative:se1726_group6_a1\\adminstaff.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FB7D90-DDD6-4631-8DF3-C45EF054622C}|SE1726_Group6_A1\\SE1726_Group6_A1.csproj|c:\\users\\administrator\\documents\\prn221\\se1726_group6_a1\\se1726_group6_a1\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FB7D90-DDD6-4631-8DF3-C45EF054622C}|SE1726_Group6_A1\\SE1726_Group6_A1.csproj|solutionrelative:se1726_group6_a1\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FB7D90-DDD6-4631-8DF3-C45EF054622C}|SE1726_Group6_A1\\SE1726_Group6_A1.csproj|c:\\users\\administrator\\documents\\prn221\\se1726_group6_a1\\se1726_group6_a1\\adminstaff.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86FB7D90-DDD6-4631-8DF3-C45EF054622C}|SE1726_Group6_A1\\SE1726_Group6_A1.csproj|solutionrelative:se1726_group6_a1\\adminstaff.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FB7D90-DDD6-4631-8DF3-C45EF054622C}|SE1726_Group6_A1\\SE1726_Group6_A1.csproj|c:\\users\\administrator\\documents\\prn221\\se1726_group6_a1\\se1726_group6_a1\\productwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86FB7D90-DDD6-4631-8DF3-C45EF054622C}|SE1726_Group6_A1\\SE1726_Group6_A1.csproj|solutionrelative:se1726_group6_a1\\productwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\Zalo Received Files\\OrderManager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FB7D90-DDD6-4631-8DF3-C45EF054622C}|SE1726_Group6_A1\\SE1726_Group6_A1.csproj|c:\\users\\administrator\\documents\\prn221\\se1726_group6_a1\\se1726_group6_a1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FB7D90-DDD6-4631-8DF3-C45EF054622C}|SE1726_Group6_A1\\SE1726_Group6_A1.csproj|solutionrelative:se1726_group6_a1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StaffWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\PRN221\\SE1726_Group6_A1\\SE1726_Group6_A1\\StaffWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SE1726_Group6_A1\\StaffWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\PRN221\\SE1726_Group6_A1\\SE1726_Group6_A1\\StaffWindow.xaml.cs",
+              "RelativeToolTip": "SE1726_Group6_A1\\StaffWindow.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:17:10.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StaffWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\PRN221\\SE1726_Group6_A1\\SE1726_Group6_A1\\StaffWindow.xaml",
+              "RelativeDocumentMoniker": "SE1726_Group6_A1\\StaffWindow.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\PRN221\\SE1726_Group6_A1\\SE1726_Group6_A1\\StaffWindow.xaml",
+              "RelativeToolTip": "SE1726_Group6_A1\\StaffWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-24T03:16:52.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Profile.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\PRN221\\SE1726_Group6_A1\\SE1726_Group6_A1\\Profile.xaml.cs",
+              "RelativeDocumentMoniker": "SE1726_Group6_A1\\Profile.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\PRN221\\SE1726_Group6_A1\\SE1726_Group6_A1\\Profile.xaml.cs",
+              "RelativeToolTip": "SE1726_Group6_A1\\Profile.xaml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:14:12.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\PRN221\\SE1726_Group6_A1\\SE1726_Group6_A1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SE1726_Group6_A1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\PRN221\\SE1726_Group6_A1\\SE1726_Group6_A1\\MainWindow.xaml",
+              "RelativeToolTip": "SE1726_Group6_A1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-24T03:09:14.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\PRN221\\SE1726_Group6_A1\\SE1726_Group6_A1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SE1726_Group6_A1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\PRN221\\SE1726_Group6_A1\\SE1726_Group6_A1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SE1726_Group6_A1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:06:50.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminStaff.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\PRN221\\SE1726_Group6_A1\\SE1726_Group6_A1\\AdminStaff.xaml",
+              "RelativeDocumentMoniker": "SE1726_Group6_A1\\AdminStaff.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\PRN221\\SE1726_Group6_A1\\SE1726_Group6_A1\\AdminStaff.xaml",
+              "RelativeToolTip": "SE1726_Group6_A1\\AdminStaff.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-24T03:06:19.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminStaff.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\PRN221\\SE1726_Group6_A1\\SE1726_Group6_A1\\AdminStaff.xaml.cs",
+              "RelativeDocumentMoniker": "SE1726_Group6_A1\\AdminStaff.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\PRN221\\SE1726_Group6_A1\\SE1726_Group6_A1\\AdminStaff.xaml.cs",
+              "RelativeToolTip": "SE1726_Group6_A1\\AdminStaff.xaml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:06:17.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\PRN221\\SE1726_Group6_A1\\SE1726_Group6_A1\\ProductWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SE1726_Group6_A1\\ProductWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\PRN221\\SE1726_Group6_A1\\SE1726_Group6_A1\\ProductWindow.xaml.cs",
+              "RelativeToolTip": "SE1726_Group6_A1\\ProductWindow.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:02:32.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\PRN221\\SE1726_Group6_A1\\SE1726_Group6_A1\\ProductWindow.xaml",
+              "RelativeDocumentMoniker": "SE1726_Group6_A1\\ProductWindow.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\PRN221\\SE1726_Group6_A1\\SE1726_Group6_A1\\ProductWindow.xaml",
+              "RelativeToolTip": "SE1726_Group6_A1\\ProductWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-24T03:02:24.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderManager.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\PRN221\\SE1726_Group6_A1\\SE1726_Group6_A1\\OrderManager.xaml.cs",
+              "RelativeDocumentMoniker": "SE1726_Group6_A1\\OrderManager.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\PRN221\\SE1726_Group6_A1\\SE1726_Group6_A1\\OrderManager.xaml.cs",
+              "RelativeToolTip": "SE1726_Group6_A1\\OrderManager.xaml.cs",
+              "ViewState": "AQIAACYBAAAAAAAAAAAawDsBAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:55:12.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderManager.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\PRN221\\SE1726_Group6_A1\\SE1726_Group6_A1\\OrderManager.xaml",
+              "RelativeDocumentMoniker": "SE1726_Group6_A1\\OrderManager.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\PRN221\\SE1726_Group6_A1\\SE1726_Group6_A1\\OrderManager.xaml",
+              "RelativeToolTip": "SE1726_Group6_A1\\OrderManager.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-24T02:53:53.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderManager.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Zalo Received Files\\OrderManager.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\Zalo Received Files\\OrderManager.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Zalo Received Files\\OrderManager.xaml.cs",
+              "RelativeToolTip": "..\\..\\Zalo Received Files\\OrderManager.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEQBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:53:19.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\PRN221\\SE1726_Group6_A1\\SE1726_Group6_A1\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "SE1726_Group6_A1\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\PRN221\\SE1726_Group6_A1\\SE1726_Group6_A1\\AssemblyInfo.cs",
+              "RelativeToolTip": "SE1726_Group6_A1\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:51:29.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
